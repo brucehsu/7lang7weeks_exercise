@@ -1,4 +1,4 @@
-a := TwoD
+a := TwoD clone
 a dim(10,2)
 a set( 1, 2, 55)
 a set( 3, 1, 33)
